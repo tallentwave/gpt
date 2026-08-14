@@ -1,0 +1,38 @@
+UNICETEL — APLICATIVO ANDROID
+
+Aplicativo configurado para a plataforma https://unicetel.com.br
+
+FUNÇÕES INCLUÍDAS
+- Navegação interna segura no domínio da UNICETEL.
+- Manutenção de sessão e cookies de acesso.
+- Login, cadastro, cursos, pagamentos e certificados pelo sistema existente.
+- Botão voltar integrado ao histórico de navegação.
+- Indicador de carregamento e mensagem para falta de conexão.
+- Certificados e materiais abertos de forma segura pelo sistema.
+- Abertura de telefone, e-mail, WhatsApp e links externos nos aplicativos adequados.
+- Sem solicitação de câmera, microfone ou localização.
+- Links de unicetel.com.br podem abrir diretamente no aplicativo.
+
+CONFIGURAÇÃO
+- Nome: UNICETEL
+- Identificador: br.com.unicetel.app
+- Versão: 1.0.0
+- Android mínimo: Android 7.0
+- Android de destino: API 35
+- Site inicial: https://unicetel.com.br/
+
+GERAÇÃO DO APK NO ANDROID STUDIO
+1. Extraia o arquivo do projeto.
+2. Abra a pasta unicetel-android no Android Studio.
+3. Aguarde a sincronização do Gradle.
+4. Selecione Build > Build App Bundles or APKs > Build APKs.
+5. O Android Studio informará onde o APK foi salvo.
+
+PUBLICAÇÃO
+Para publicar na Google Play, gere um arquivo AAB assinado em:
+Build > Generate Signed Bundle / APK > Android App Bundle.
+
+IMPORTANTE
+O APK final de produção deve ser assinado com uma chave privada pertencente ao
+proprietário do aplicativo. Essa chave deve ser guardada com segurança e não
+deve ser compartilhada em conversas.
