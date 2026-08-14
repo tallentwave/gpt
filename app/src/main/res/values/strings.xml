@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UNICETEL</string>
+    <string name="offline_message">Não foi possível acessar a UNICETEL.\n\nVerifique sua conexão e toque aqui para tentar novamente.</string>
+    <string name="download_started">Download iniciado</string>
+    <string name="file_error">Não foi possível selecionar o arquivo</string>
+    <string name="link_error">Não foi possível abrir este link</string>
+</resources>
